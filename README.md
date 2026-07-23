@@ -35,4 +35,18 @@ Registrar minha evolução como estudante através de:
 
 ## 🚀 Este repositório será atualizado constantemente.
 
-Cada novo projeto mostrará minha evolução durante a graduação.
+Cada novo projeto mostrará minha evolução durante a graduação.Markdown
+Atualização
+## 23/07/2026
+Hoje iniciei oficialmente a construção do meu GitHul
+Objetivos desta semana:
+- Aprender Git e GitHub
+- Organizar meu ambiente de
+estudos
+- Começar a programar em
+C
+- Instalar o Dev-C++
+- Estudar Linux
+Este repositório será atualizado durante toda a graduação.
+
+
