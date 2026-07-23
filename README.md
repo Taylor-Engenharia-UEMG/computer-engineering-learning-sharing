@@ -1,6 +1,10 @@
 # Computer Engineering Learning Portfolio
 
-> Building engineering foundations through continuous learning, hands-on projects, technical documentation, and reproducible experiments.
+# 👨🏻‍💻 Taylor
+
+### Computer Engineering Student • Artificial Intelligence • Computer Networks • Linux • Cybersecurity
+
+> Building practical engineering skills through reproducible projects, technical documentation, and continuous learning.
 
 ---
 
